@@ -1,7 +1,8 @@
-baseURL = "http://example.com/"
+baseURL = "https://memlenz.com/"
 languageCode = "fr"
 title = "🐱 memlenz"
 
+enableRobotsTXT = true # Génération du robots.txt
 #sectionPagesMenu = 'main' # Pour charger par défaut tout le content comme menu
 
 [menu]
