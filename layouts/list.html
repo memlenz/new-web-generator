@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark">
+{{ partial "head.html" . }}
+<body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col transition-colors duration-300 font-inter">
+  {{ partial "header.html" . }}
+  <main class="container mx-auto flex-grow p-4 py-16">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <ul>
+      {{ range .Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "2006-01-02" }}</li>
+      {{ end }}
+    </ul>
+  </main>
+  {{ partial "footer.html" . }}
+</body>
+</html>

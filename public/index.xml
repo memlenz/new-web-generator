@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on 🐱 memlenz</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Accueil on 🐱 memlenz</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;!-- Section Hero --&gt;&#xA;&lt;section class=&#34;py-20 bg-gray-50 dark:bg-gray-900 text-center&#34; data-aos=&#34;fade-up&#34;&gt;&#xA;&#xA;    &lt;!-- Photo de profil --&gt;&#xA;    &lt;div class=&#34;flex justify-center mb-8&#34; data-aos=&#34;zoom-in&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/profile.png&#34; alt=&#34;Photo de profil&#34; class=&#34;w-48 h-48 rounded-full object-cover shadow-lg border-4 border-gray-200 dark:border-gray-700&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;  &lt;h1 class=&#34;text-4xl md:text-5xl font-bold mb-4&#34;&gt;À propos de moi&lt;/h1&gt;&#xA;  &lt;p class=&#34;text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto&#34;&gt;&#xA;    Je suis &lt;strong class=&#34;text-2xl font-bold text-primary-light dark:text-primary-dark&#34;&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt; alias &lt;strong class=&#34;text-2xl font-bold text-primary-light dark:text-primary-dark&#34;&gt;memlenz&lt;/strong&gt;, passionné par &lt;em&gt;Linux&lt;/em&gt;, &lt;strong&gt;&#34;I&#39;m a Arch user BTW&#34;&lt;/strong&gt;, &#xA;    le &lt;strong&gt;DevOps&lt;/strong&gt;, l’&lt;strong&gt;administration système&lt;/strong&gt; et la &lt;strong&gt;conception web moderne&lt;/strong&gt;.  &#xA;    J’aime créer des solutions performantes et sécurisées.&#xA;  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;section class=&#34;text-center mb-16&#34; data-aos=&#34;fade-up&#34;&gt;&#xA;            &lt;h1 class=&#34;text-5xl font-bold mb-4&#34;&gt;Services Tech Minimalistes pour Booster Votre Présence en Lignportfolioe&lt;/h1&gt;&#xA;            &lt;p class=&#34;text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-6&#34;&gt;&#xA;                Besoin d&#39;un site rapide, sécurisé et optimisé ? Je propose des solutions sur mesure pour créer, maintenir et optimiser vos projets web. Gagnez en performance, réduisez les coûts et attirez plus de clients grâce à des technologies modernes et minimalistes.&#xA;            &lt;/p&gt;&#xA;            &lt;a href=&#34;http://localhost:1313/contact.html&#34; class=&#34;inline-block bg-primary-light dark:bg-primary-dark text-white py-3 px-6 rounded-lg hover:bg-indigo-700 dark:hover:bg-violet-500 transition-colors duration-300&#34;&gt;&#xA;                Demandez un devis gratuit&#xA;            &lt;/a&gt;&#xA;        &lt;/section&gt;&#xA;        &lt;section class=&#34;mb-16&#34; data-aos=&#34;fade-right&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold mb-8 text-center&#34;&gt;Pourquoi Choisir Mes Services ?&lt;/h2&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-6&#34;&gt;&#xA;                &lt;div class=&#34;p-6 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300&#34;&gt;&#xA;                    &lt;h3 class=&#34;text-xl font-semibold mb-2&#34;&gt;Performance Optimale&lt;/h3&gt;&#xA;                    &lt;p class=&#34;text-gray-600 dark:text-gray-300&#34;&gt;Sites chargés en moins d&#39;une seconde, pour une meilleure expérience utilisateur et un meilleur SEO.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet 1</title>
+      <link>http://localhost:1313/blog/projet1/</link>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/projet1/</guid>
+      <description>&lt;p&gt;Description de mon premier projet. Voici ce que j&amp;rsquo;ai réalisé&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/projet2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/projet2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;section class=&#34;py-20&#34;&gt;&#xA;  &lt;!-- Hero / Intro --&gt;&#xA;  &lt;div class=&#34;text-center mb-12&#34; data-aos=&#34;fade-up&#34;&gt;&#xA;    &lt;h1 class=&#34;text-4xl font-bold mb-4&#34;&gt;Me contacter&lt;/h1&gt;&#xA;    &lt;p class=&#34;text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto&#34;&gt;&#xA;      Pour des collaborations, freelancing ou questions, utilisez le formulaire ci-dessous ou écrivez-moi directement à&#xA;      &lt;a href=&#34;mailto:contact@memlenz.com&#34; class=&#34;text-primary-light dark:text-primary-dark font-semibold hover:underline&#34;&gt;&#xA;        contact@memlenz.com&#xA;      &lt;/a&gt;.&#xA;    &lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- Formulaire --&gt;&#xA;  &lt;div class=&#34;max-w-xl mx-auto bg-gray-50 dark:bg-gray-800 p-8 rounded-2xl shadow-md hover:shadow-lg transition&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;100&#34;&gt;&#xA;    &lt;form action=&#34;https://formspree.io/f/mrbavbey&#34; method=&#34;POST&#34; class=&#34;space-y-6&#34;&gt;&#xA;      &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Votre nom&#34; &#xA;        class=&#34;w-full p-4 bg-gray-50 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-lg text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-primary-light dark:focus:ring-primary-dark transition-colors&#34; required&gt;&#xA;&#xA;      &lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Votre email&#34; &#xA;        class=&#34;w-full p-4 bg-gray-50 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-lg text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-primary-light dark:focus:ring-primary-dark transition-colors&#34; required&gt;&#xA;&#xA;      &lt;textarea name=&#34;message&#34; placeholder=&#34;Votre message&#34; rows=&#34;6&#34;&#xA;        class=&#34;w-full p-4 bg-gray-50 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-lg text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-primary-light dark:focus:ring-primary-dark transition-colors&#34; required&gt;&lt;/textarea&gt;&#xA;&#xA;      &lt;button type=&#34;submit&#34; &#xA;        class=&#34;w-full bg-primary-light dark:bg-primary-dark text-white py-3 px-6 rounded-xl font-semibold hover:bg-indigo-700 dark:hover:bg-violet-500 transition transform hover:scale-105&#34;&gt;&#xA;        Envoyer votre message&#xA;      &lt;/button&gt;&#xA;    &lt;/form&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- CTA final --&gt;&#xA;  &lt;div class=&#34;text-center mt-16&#34; data-aos=&#34;fade-up&#34; data-aos-delay=&#34;200&#34;&gt;&#xA;    &lt;p class=&#34;text-gray-600 dark:text-gray-300 mb-4&#34;&gt;Ou discutons directement autour d’un projet qui vous tient à cœur.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;!-- Hero --&gt;&#xA;&lt;section class=&#34;text-center mb-20&#34; data-aos=&#34;fade-up&#34;&gt;&#xA;  &lt;h1 class=&#34;text-5xl font-extrabold mb-4 tracking-tight&#34;&gt;&#xA;    &lt;span id=&#34;typewriter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;text-primary-light&#34;&gt;|&lt;/span&gt;&#xA;  &lt;/h1&gt;&#xA;  &lt;p class=&#34;text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed&#34;&gt;&#xA;    Développeur web &amp; DevOps. Passionné par &lt;span class=&#34;font-semibold&#34;&gt;Linux&lt;/span&gt;, Django et l’optimisation de systèmes.&#xA;  &lt;/p&gt;&#xA;  &lt;a href=&#34;#projects&#34; class=&#34;mt-6 inline-block bg-primary-light dark:bg-primary-dark text-white py-3 px-6 rounded-xl shadow-md hover:scale-105 hover:shadow-lg transform transition&#34;&gt;&#xA;    Explorer mes projets 🚀&#xA;  &lt;/a&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;!-- Compétences --&gt;&#xA;&lt;section id=&#34;skills&#34; class=&#34;mb-20&#34;&gt;&#xA;  &lt;h2 class=&#34;text-3xl font-bold mb-12 text-center&#34;&gt;Compétences&lt;/h2&gt;&#xA;  &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-8&#34;&gt;&#xA;    &lt;div class=&#34;p-6 bg-gray-50 dark:bg-gray-800 rounded-xl shadow hover:shadow-xl transition transform hover:-translate-y-1&#34; data-aos=&#34;zoom-in&#34;&gt;&#xA;      &lt;h3 class=&#34;text-xl font-semibold mb-3&#34;&gt;Systèmes &amp; OS&lt;/h3&gt;&#xA;      &lt;p class=&#34;text-gray-600 dark:text-gray-300&#34;&gt;Linux, Windows, Windows Server.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+baseURL = "http://example.com/"
+languageCode = "fr"
+title = "🐱 memlenz"
+
+#sectionPagesMenu = 'main' # Pour charger par défaut tout le content comme menu
+
+[menu]
+[[menu.main]]
+  name = 'Accueil'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 2
+[[menu.main]]
+  name = 'Blog'
+  url = '/blog'
+  weight = 3
+[[menu.main]]
+  name = 'Contact'
+  url = '/contact'
+  weight = 4
+
+
+[markup] # Utiliser du html
+  [goldmark]
+    [renderer]
+      unsafe = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
