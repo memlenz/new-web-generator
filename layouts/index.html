@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr" class="dark">
 {{ partial "head.html" . }}
-<body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col transition-colors duration-300 font-inter">
+<body class="bg-gray-50 font-['Inter'] text-gray-900 antialiased">
   {{ partial "header.html" . }}
-  <main class="container mx-auto flex-grow p-4 py-16">
+  <main>
     {{ .Content }}
   </main>
   {{ partial "footer.html" . }}

@@ -1,6 +1,6 @@
 baseURL = "https://memlenz.com/"
 languageCode = "fr"
-title = "🐱 memlenz"
+title = "🐱 memlenz.com"
 
 enableRobotsTXT = true # Génération du robots.txt
 #sectionPagesMenu = 'main' # Pour charger par défaut tout le content comme menu

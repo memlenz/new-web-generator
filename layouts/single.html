@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr" class="dark">
 {{ partial "head.html" . }}
-<body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col transition-colors duration-300 font-inter">
+<body class="bg-blue-900 bg-opacity-70 font-['Inter'] text-gray-900 antialiased">
   {{ partial "header.html" . }}
-  <main class="container mx-auto flex-grow p-4 py-16">
-    <h1>{{ .Title }}</h1>
+  <main class="container mx-auto flex-grow p-8 border-3">
+    voici la page single.html 
     {{ .Content }}
   </main>
   {{ partial "footer.html" . }}
